@@ -88,7 +88,7 @@ const About = () => {
           With more than 200+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.
           </SubTextLight>
           <ButtonContainer>
-          <ThemeProvider theme={dark} ><Button text="Join Our Discord" link="#" /></ThemeProvider>
+          <ThemeProvider theme={dark} ><Button text="Join Our Discord" link="https://discord.com" target="_blank" /></ThemeProvider>
           </ButtonContainer>
         </Box>
       </Container>
