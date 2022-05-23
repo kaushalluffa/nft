@@ -1,7 +1,7 @@
 {
   "name": "meta-piggs-demo",
   "version": "0.1.0",
-  "homepage": "https://kaushalluffa.github.io/yogesh_nft",
+  "homepage": "https://kaushalluffa.github.io/nft",
   "private": true,
   "dependencies": {
     "@fontsource/akaya-telivigala": "^4.5.4",
